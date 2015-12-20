@@ -1,0 +1,53 @@
+body {
+  margin: 3em;
+  padding: 3em;
+  font-family: Verdana;
+  line-height: 1.5em;
+  background-color: lightcoral;
+  border: 5px;
+}
+header {
+  background: lightcoral;
+  height: 95px;
+  text-align: justify;
+  padding: 4px 0;
+}
+header h1 {
+  margin: 0;
+  padding-top: 15px;
+  color: darkblue
+  text align: center;
+}
+main {
+  padding-bottom: 10010px;
+  margin-bottom: -10000px;
+  float: left;
+  width: 100%;
+  color: darkblue
+}
+article {
+  width: 75%;
+  margin: auto;
+  border: 1px dashed black;
+}
+nav {
+  float: center;
+  width: 230px;
+  background: #ccc;
+  padding: 4px 0;
+  text-align: center;
+  border: 2px solid black;
+}
+nav a {
+  text-decoration: bold;
+  hover: darkcyan;
+}
+
+footer {
+  clear: left;
+  width: 100%;
+  background: #ccc;
+  text-align: center;
+  padding: 4px 0;
+  border: 2px dotted black;
+}
