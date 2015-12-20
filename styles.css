@@ -5,6 +5,7 @@ body {
   line-height: 1.5em;
   background-color: lightcoral;
   border: 5px;
+  position: absolute;
 }
 header {
   background: lightcoral;
@@ -50,4 +51,7 @@ footer {
   text-align: center;
   padding: 4px 0;
   border: 2px dotted black;
+}
+#footer {
+  position: static;
 }
